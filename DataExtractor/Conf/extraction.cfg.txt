@@ -1,0 +1,16 @@
+{
+  "property": "Test",
+  "domain": "Name",
+  "group": "G1",
+  "schema": "",
+  "database": "EMPLOYEE",
+  "tables": [
+    {
+      "table": "salary",
+      "extraction_type": "MONGODB_OPSLOG",
+      "where_clause": "",
+      "key_column": "",
+      "columns": []
+    }
+  ]
+}
